@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,OACE,WAAY,CACZ,WAAY,CACZ,WAAY","file":"main.4b2d8832.chunk.css","sourcesContent":["// styles go here\nbutton {\n  margin: 20px;\n  width: 100px;\n  height: 30px;\n}"]}
